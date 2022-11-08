@@ -1,4 +1,4 @@
-RUNNING THE SCRIPT ON LINUX SERVER:
+RUNNING THE SCRIPT ON COMMAND LINE:
 	Once project folder has been imported and directory is set to project folder:
 	Commandline: python3 main.py arg1 arg2 arg3 arg4 
 	      arg1: Scheduling Algorithm (1 - FCFS, 2 - SRTF, 3 - HRRN, 4 - RR)
